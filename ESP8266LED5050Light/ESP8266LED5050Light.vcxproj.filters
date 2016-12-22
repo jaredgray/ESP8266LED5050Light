@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="ESP8266LED5050Light.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.ESP8266LED5050Light.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
